@@ -1,2 +1,2 @@
 # WebDev
-This is my journey of web development
+This is my journey of web development.
